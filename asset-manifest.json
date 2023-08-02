@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word-editor/static/css/main.5c6d9c33.css",
+    "main.js": "/word-editor/static/js/main.4c8685ad.js",
+    "index.html": "/word-editor/index.html",
+    "main.5c6d9c33.css.map": "/word-editor/static/css/main.5c6d9c33.css.map",
+    "main.4c8685ad.js.map": "/word-editor/static/js/main.4c8685ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c6d9c33.css",
+    "static/js/main.4c8685ad.js"
+  ]
+}
