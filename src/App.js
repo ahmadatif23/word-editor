@@ -19,6 +19,7 @@ function App() {
 
   const handlePreview = () => {
     setPreview(true)
+    console.log(content)
   }
 
   return (
