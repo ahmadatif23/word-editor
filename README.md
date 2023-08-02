@@ -1,5 +1,8 @@
 # React Word Editor
 
+## Demo / Example
+Go to https://ahmadatif23.github.io/word-editor/
+
 ## Installation
 
 ```bash
