@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.jodit-status-bar-link {
+  display: none;
+}
+
+span[ref="about"] {
+  display: none;
+}
